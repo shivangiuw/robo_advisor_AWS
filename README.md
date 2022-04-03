@@ -23,7 +23,7 @@ An AWS Lex chat bot that establishes a conversation with the user about investme
 * Investment amount: More than 5000
 
 
-![Chatbot Test](media/amount_test.gif)  
+![Chatbot Test](media/amount_test.mov)  
 
 
 ## Technologies
