@@ -17,13 +17,24 @@ An AWS Lex chat bot that establishes a conversation with the user about investme
 - Medium: “40% bonds (AGG), 60% equities (SPY)”
 - High: “20% bonds (AGG), 80% equities (SPY)”
 
+## Bot Working:
+
+![Chatbot_Test_Age](media/robo_lambda.mov)
+
+![Chatbot_Test_Age](media/robo_adv.mov)
+
+
 ## Bot Test Validations:
 
 * Age validation: upto 65 years
 * Investment amount: More than 5000
 
 
-![Chatbot Test](media/amount_test.mov)  
+![Chatbot_Test_Age](media/age_testval.mov)
+
+![Chatbot_Test_Amount](media/amount_testval.mov)
+
+![Chatbot_Test_NegtiveAge](media/age_testval.mov)
 
 
 ## Technologies
