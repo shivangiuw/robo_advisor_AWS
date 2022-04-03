@@ -54,10 +54,8 @@ This application further uses following AWS technologies:
 ## Installation Guide
 
 ```
-conda install pandas
-pip install --upgrade tensorflow
-conda install -c intel scikit-learn
-
+pip install python-dateutil
+pip install DateTime
 ```
 
 ## Contributor
