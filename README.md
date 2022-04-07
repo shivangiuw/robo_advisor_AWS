@@ -19,7 +19,7 @@ An AWS Lex chat bot that establishes a conversation with the user about investme
 
 ## Bot Working:
 
-![Chat_Bot_working](media/robo_adv.mov)
+![Chat_Bot_working](media/robo_adv.gif)
 
 ![Chat_Bot_Portfolio](media/robo_lambda.gif)
 
@@ -30,11 +30,11 @@ An AWS Lex chat bot that establishes a conversation with the user about investme
 * Investment amount: More than 5000
 
 
-![Chatbot_Test_Age](media/age_testval.mov)
+![Chatbot_Test_Age](media/age_testval.gif)
 
-![Chatbot_Test_Amount](media/amount_testval.mov)
+![Chatbot_Test_Amount](media/amount_testval.gif)
 
-![Chatbot_Test_NegtiveAge](media/age_testval.mov)
+![Chatbot_Test_NegtiveAge](media/age_testval.gif
 
 
 ## Technologies
