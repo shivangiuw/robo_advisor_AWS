@@ -34,7 +34,7 @@ An AWS Lex chat bot that establishes a conversation with the user about investme
 
 ![Chatbot_Test_Amount](media/amount_testval.gif)
 
-![Chatbot_Test_NegtiveAge](media/age_testval.gif
+![Chatbot_Test_NegtiveAge](media/age_testval.gif)
 
 
 ## Technologies
